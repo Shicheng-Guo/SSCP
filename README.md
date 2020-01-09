@@ -1,7 +1,7 @@
 ## Systemic Sclerosis Pathway (SSCP) @ Fudan University and UW-Madison
 
 
-Aim: SSC pathway is constructed to compared with RA, OA pathway. GWAS, DGE, DMR of SSc should be enriched in SSCP. immnue cells, skin, lung and other organs will be collected in SSCP. 
+Aim: Prepare a review paper to clarify SSc pathway. SSC pathway is constructed to compared with RA, OA pathway. GWAS, DGE, DMR of SSc should be enriched in SSCP. immnue cells, skin, lung and other organs will be collected in SSCP. 
 
 Timeline: 
 * 2020/01/08: all the genes identified by Dr. Wang's lab in Fudan should be enrolled in SSCP. 
