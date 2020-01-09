@@ -1,4 +1,4 @@
-## Systemic Sclerosis Pathway (SSP) by Fudan University and UW-Madison
+## Systemic Sclerosis Pathway (SSP) @ Fudan University and UW-Madison
 
 Timeline: 
 
